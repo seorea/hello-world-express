@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Testing Git and the functionality of how to use it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seoyaa/Test.git"
+  },
+  "author": "Kevin Yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seoyaa/Test/issues"
+  },
+  "homepage": "https://github.com/seoyaa/Test#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
